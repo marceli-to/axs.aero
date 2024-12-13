@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BleSITbP.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/img/bg-desktop.png": {
+    "file": "assets/bg-desktop-B-ubDavu.png",
+    "src": "resources/img/bg-desktop.png"
+  },
+  "resources/img/bg-mobile.png": {
+    "file": "assets/bg-mobile-DPTMbahG.png",
+    "src": "resources/img/bg-mobile.png"
+  },
+  "resources/img/bg-tablet-landscape.png": {
+    "file": "assets/bg-tablet-landscape-eW9a7-LP.png",
+    "src": "resources/img/bg-tablet-landscape.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-MratX3S_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
