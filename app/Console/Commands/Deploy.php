@@ -13,7 +13,7 @@ class Deploy extends Command
   public function handle()
   {
     $this->call('export');
-    $this->replaceInDist('https://knechtmodellbau.ch.test', env('APP_URL_PROD'));
+    $this->replaceInDist('https://axs.aero.test', env('APP_URL_PROD'));
   }
 
   protected function replaceInDist($search, $replace)
