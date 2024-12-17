@@ -7,9 +7,6 @@
         <x-logo.aas class="w-auto h-30 lg:h-40" />
       </a>
       <a href="">
-        <x-logo.ahs class="w-auto h-30 lg:h-40" />
-      </a>
-      <a href="">
         <x-logo.aastechnics class="w-auto h-30 lg:h-40" />
       </a>
     </div>
