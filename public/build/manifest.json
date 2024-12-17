@@ -1,12 +1,8 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-BlK7WMe0.css",
+    "file": "assets/app-CgjPQZEg.css",
     "src": "resources/css/app.css",
     "isEntry": true
-  },
-  "resources/img/bg-desktop.png": {
-    "file": "assets/bg-desktop-B-ubDavu.png",
-    "src": "resources/img/bg-desktop.png"
   },
   "resources/img/bg-mobile.png": {
     "file": "assets/bg-mobile-DPTMbahG.png",
