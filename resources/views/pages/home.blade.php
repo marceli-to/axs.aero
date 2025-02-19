@@ -6,9 +6,9 @@
     <a href="https://aas.aero" title="AAS" target="_blank">
       <x-logo.aas class="w-auto h-20 md:h-25 lg:h-34" />
     </a>
-    <span class="text-white">
+    <a href="https://www.ahs-aero.de/" title="AHS Aviation Handling Services GmbH" target="_blank" class="text-white">
       <x-logo.ahs class="text-white block w-auto h-20 md:h-25 lg:h-38" />
-    </span>
+    </a>
     <a href="https://aas-technics.com" title="AAS Technics" target="_blank">
       <x-logo.aastechnics class="w-auto h-20 md:h-24 lg:h-33" />
     </a>
